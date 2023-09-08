@@ -1,6 +1,6 @@
 # [Exponential Smoothing for Off-Policy Learning](https://proceedings.mlr.press/v202/aouali23a/aouali23a.pdf)
 
-Experiments for the paper [Exponential Smoothing for Off-Policy Learning](https://proceedings.mlr.press/v202/aouali23a/aouali23a.pdf) accepted for an Oral presentation at ICML 2023.
+Experiments for the paper [Exponential Smoothing for Off-Policy Learning](https://proceedings.mlr.press/v202/aouali23a/aouali23a.pdf) accepted for an __Oral presentation at ICML 2023__.
 
 [Imad AOUALI](https://www.iaouali.com/) (Criteo and ENSAE-CREST), Victor-Emmanuel Brunel (ENSAE-CREST), David Rohde (Criteo), Anna Korba (ENSAE-CREST)
 
