@@ -29,6 +29,11 @@ The three types of policies that were used in our experiments, softmax, mixed-lo
 - `models.py` 
 The baselines used in our experiments.
 
+- The folder `results` contains the results of models on different datasets saved as csv files.
+
+- The folder `figures` contains the main figure of the paper, which is displayed above.
+
+
 [imad-email]: mailto:imadaouali9@gmail.com 
 
 ## Acknowledgement
