@@ -1,4 +1,4 @@
-# [Exponential Smoothing for Off-Policy Learning](https://proceedings.mlr.press/v202/aouali23a/aouali23a.pdf)
+# [Exponential Smoothing for Off-Policy Learning (Oral at ICML 2023)](https://proceedings.mlr.press/v202/aouali23a/aouali23a.pdf)
 
 Experiments for the paper [Exponential Smoothing for Off-Policy Learning](https://proceedings.mlr.press/v202/aouali23a/aouali23a.pdf) accepted for an __Oral presentation at ICML 2023__.
 
