@@ -12,20 +12,20 @@ Off-policy learning (OPL) aims at finding improved policies from logged bandit d
 
 This repository is structured as follows
 
-- `utils.ipynb`
-meTS experiments on synthetic linear bandit problems
+- `Experiments.ipynb`
+Notebook to run the main experiment of our paper.
 
-- `policies.ipynb`
-meTS experiments on MovieLens dataset with linear rewards
+- `Figures.ipynb`
+Notebook to produce the main figure of our paper.
 
-- `meTS-Log.ipynb` 
-meTS experiments on synthetic logistic bandit problems
+- `utils.py`
+Useful Python functions.
 
-- `meTS-Log-MovieLens.ipynb`
-meTS experiments on MovieLens dataset with logistic rewards
+- `policies.py`
+The three types of policies that were used in our experiments, softmax, mixed-logit, and Gaussian.
 
-- `ratings.dat`
-[MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/)
+- `models.py` 
+The baselines used in our experiments.
 
 [imad-email]: mailto:imadaouali9@gmail.com 
 
